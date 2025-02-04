@@ -5,6 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.jpg";
 import project7 from "../assets/projects/project-7.jpg";
+import project8 from "../assets/projects/provision-project.png";
 
 export const HERO_CONTENT = `I am a passionate software developer with a knack for developing efficient and scalable applications. My area of expertise is full-stack programming, where I create dynamic web applications using tools like React and Node.js.  My objective is to use my skills to develop creative solutions that promote business development and provide outstanding user experiences.`;
 
@@ -13,9 +14,16 @@ export const ABOUT_TEXT_P2 = `With a solid background in technologies such as Re
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2024 - 2024",
     role: "Full Stack Developer",
     company: "Bluewave Labs",
+    description: `Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with PostgreSQL database. Collaborated with stakeholders to define project requirements and timelines.`,
+    technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
+  },
+  {
+    year: "2023 - 2024",
+    role: "IT Support Spealist",
+    company: "Avaso Technology Solutions",
     description: `Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with PostgreSQL database. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
   },
@@ -24,14 +32,20 @@ export const EXPERIENCES = [
     role: "Web Developer",
     company: "Freelance",
     description: `Created visually appealing and user-friendly websites for multiple clients using HTML, CSS, JS, and Wordpress`,
-    technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
+    technologies: [
+      "Wordpress",
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "PostgreSQL",
+    ],
   },
   {
     year: "2021 - 2022",
     role: "Full Stack Developer",
     company: "Sixth Force Solutions",
     description: `Designed and developed user interfaces for web applications using Node.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    technologies: ["HTML", "CSS", "React.js", "mySQL"],
   },
 ];
 
@@ -40,7 +54,7 @@ export const PROJECTS = [
     title: "HR Management Application",
     image: project1,
     description:
-      "A fully functional HR management application with features like team management, employee management, time off & vacation management, onborading and offborading.",
+      "Contributor to a fully functional and open-source HR management application with features like team management, employee management, time off & vacation management, onborading and offborading.",
     technologies: [
       "React",
       "Node.js",
@@ -57,6 +71,14 @@ export const PROJECTS = [
     description:
       "A professional website for a security service company, featuring service details, contact information, and client testimonials.",
     technologies: ["HTML", "CSS", "JS", "Bootstrap"],
+  },
+  {
+    title: "Website for Provision Land Consulants",
+    link: "https://provisionlc.com/",
+    image: project8,
+    description:
+      "A professional website for a land consultant company, featuring their portfolio, services, contact information, and client testimonials.",
+    technologies: ["Wordpress", "HTML", "CSS", "JS", "Bootstrap"],
   },
   {
     title: "Website for MM Land Surveying Company",
@@ -103,7 +125,7 @@ export const FUN_PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "Toronto, Canada ",
   phoneNo: "+1 (905)-601-1186",
   email: "fazlul2k@hotmail.com",
 };
