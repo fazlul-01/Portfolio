@@ -73,7 +73,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "JS", "Bootstrap"],
   },
   {
-    title: "Website for Provision Land Consulants",
+    title: "Website for Provision Land Consultants",
     link: "https://provisionlc.com/",
     image: project8,
     description:
