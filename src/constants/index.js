@@ -22,9 +22,9 @@ export const EXPERIENCES = [
   },
   {
     year: "2023 - 2024",
-    role: "IT Support Spealist",
+    role: "IT Support Specialist",
     company: "Avaso Technology Solutions",
-    description: `Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with PostgreSQL database. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `Provide technical assistance to troubleshoot and resolve issues related to computer hardware, software, and networks, ensuring seamless operations. Document problem-solving processes and technical solutions to improve efficiency and knowledge sharing.`,
     technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
   },
   {
