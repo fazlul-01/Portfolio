@@ -25,7 +25,7 @@ export const EXPERIENCES = [
     role: "IT Support Specialist",
     company: "Avaso Technology Solutions",
     description: `Provide technical assistance to troubleshoot and resolve issues related to computer hardware, software, and networks, ensuring seamless operations. Document problem-solving processes and technical solutions to improve efficiency and knowledge sharing.`,
-    technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
+    technologies: ["Jira", "Service Now", "Hardware Troubleshooting"],
   },
   {
     year: "2022 - 2023",
