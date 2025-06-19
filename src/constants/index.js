@@ -10,22 +10,22 @@ import project8 from "../assets/projects/provision-project.png";
 export const HERO_CONTENT = `I am a passionate software developer with a knack for developing efficient and scalable applications. My area of expertise is full-stack programming, where I create dynamic web applications using tools like React and Node.js.  My objective is to use my skills to develop creative solutions that promote business development and provide outstanding user experiences.`;
 
 export const ABOUT_TEXT_P1 = `I am a motivated and versatile full-stack developer with more than two years of working experience. My interest in web development began with a profound curiosity about how things function, and it has grown into a career in which I always seek to learn and adapt to new difficulties.`;
-export const ABOUT_TEXT_P2 = `With a solid background in technologies such as React, Node.js, Firebase, PostgreSQL, and MongoDB. I am passionate about developing efficient and user-friendly web applications. I thrive in working environments and enjoy solving challenging problems to produce high-quality results. Outside of coding, I enjoy staying active, learning about new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT_P2 = `With a solid background in technologies such as React, Node.js, Spring Boot, PostgreSQL, and MongoDB. I am passionate about developing efficient and user-friendly web applications. I thrive in working environments and enjoy solving challenging problems to produce high-quality results. Outside of coding, I enjoy staying active, learning about new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "2024 - 2024",
+    year: "2024 - 2025",
+    role: "Full Stack Developer",
+    company: "Sparklex Technologies Inc.",
+    description: `Design and deploy scalable Java-based microservices and React frontends for high-volume enterprise applications. Lead full-cycle application development aligned with business needs, focusing on secure systems design and cloud-native deployment.`,
+    technologies: ["Java", "Spring Framework", "React"],
+  },
+  {
+    year: "2023 - 2024",
     role: "Full Stack Developer",
     company: "Bluewave Labs",
     description: `Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with PostgreSQL database. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
-  },
-  {
-    year: "2023 - 2024",
-    role: "IT Support Specialist",
-    company: "Avaso Technology Solutions",
-    description: `Provide technical assistance to troubleshoot and resolve issues related to computer hardware, software, and networks, ensuring seamless operations. Document problem-solving processes and technical solutions to improve efficiency and knowledge sharing.`,
-    technologies: ["Jira", "Service Now", "Hardware Troubleshooting"],
   },
   {
     year: "2022 - 2023",
@@ -41,7 +41,7 @@ export const EXPERIENCES = [
     ],
   },
   {
-    year: "2021 - 2022",
+    year: "2020 - 2022",
     role: "Full Stack Developer",
     company: "Sixth Force Solutions",
     description: `Designed and developed user interfaces for web applications using Node.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
