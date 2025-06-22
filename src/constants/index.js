@@ -9,7 +9,7 @@ import project8 from "../assets/projects/provision-project.png";
 
 export const HERO_CONTENT = `I am a passionate software developer with a knack for developing efficient and scalable applications. My area of expertise is full-stack programming, where I create dynamic web applications using tools like React and Node.js.  My objective is to use my skills to develop creative solutions that promote business development and provide outstanding user experiences.`;
 
-export const ABOUT_TEXT_P1 = `I am a motivated and versatile full-stack developer with more than two years of working experience. My interest in web development began with a profound curiosity about how things function, and it has grown into a career in which I always seek to learn and adapt to new difficulties.`;
+export const ABOUT_TEXT_P1 = `I am a motivated and versatile full-stack developer with more than 5 years of working experience. My interest in web development began with a profound curiosity about how things function, and it has grown into a career in which I always seek to learn and adapt to new difficulties.`;
 export const ABOUT_TEXT_P2 = `With a solid background in technologies such as React, Node.js, Spring Boot, PostgreSQL, and MongoDB. I am passionate about developing efficient and user-friendly web applications. I thrive in working environments and enjoy solving challenging problems to produce high-quality results. Outside of coding, I enjoy staying active, learning about new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
